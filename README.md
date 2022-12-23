@@ -106,5 +106,6 @@ These Terms of Use and any policies or operating rules posted by us on the websi
 In order to resolve a complaint regarding the Bot or to receive further information regarding use of the Bot, please contact us at:
 
 Discord: serial#1273
+Support Server: https://discord.gg/deMeG9zERu
 
 These terms of use were created using Termly's Terms and Conditions Generator.
